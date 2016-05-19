@@ -2,7 +2,11 @@
 
 In this project I was given a web-based application that reads RSS feeds, and have been tasked with using [Jasmine](http://jasmine.github.io/) to write test suite for this feed reader.
 
-## Why this Project?
+## Checking out this project
+
+If you clone this repo and open the index.html file you'll see my Jasmine suite of tests and their passing specs at the bottom of the page.
+
+## Why this project?
 
 This project has a focus on learning the ins, outs, and importance of test-driven development.
 
@@ -11,7 +15,7 @@ This project has a focus on learning the ins, outs, and importance of test-drive
 First, I learned that testing really isn't that difficult a process for both synchronous and asynchronous functions. More importantly, though, I learned that thinking about tests first really helps to understand one's project before even getting started and helps to ensure that new features and functionality work with the pre-existing ones.
 
 
-# Steps used to complete this project?
+## Steps used to complete this project?
 
 1. Download the [required project assets](http://github.com/udacity/frontend-nanodegree-feedreader).
 2. Review the functionality of the application within your browser.
