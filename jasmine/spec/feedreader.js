@@ -110,7 +110,7 @@ $(function() {
       /* Checks that the two calls to loadFeeds actually have
        * loaded different data.
        */
-      it('loadFeed updates feed content displayed', function(done) {
+      it('loadFeed updates feed content displayed', function() {
         expect(firstFeedContents).not.toEqual(secondFeedContents);
       });
     })
